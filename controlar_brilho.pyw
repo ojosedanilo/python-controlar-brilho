@@ -16,7 +16,7 @@ config = ConfigParser()
 # Valor inicial para o brilho máximo permitido
 max_brightness = 70
 # Intervalo inicial (em segundos) para checar o brilho
-recheck_time_seconds = 10
+recheck_time_seconds = 60
 
 
 while True:
